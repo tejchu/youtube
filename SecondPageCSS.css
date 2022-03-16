@@ -1,0 +1,31 @@
+
+body{
+	background-color:1f2e2e;
+	color: white;
+	font-family:Georgia;
+	width: 990px;
+	margin:auto;
+}
+#VideoBox{
+	border-style: solid;
+	border-color: red;
+	background-color:1f2e2e;
+	margin: 10px;
+	padding:5px;
+}
+footer{
+	border-style: solid;
+	border-color: white;
+	text-transform: capitalize;
+	font-size: 16px;
+	color: white;
+	font-family: Georgia;
+	padding: 3px;
+	text-align:center;
+}
+iframe{
+	margin:5px;
+}
+header{
+	
+}

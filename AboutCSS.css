@@ -1,0 +1,50 @@
+body{
+	font-family:Verdana;
+	background-color:ffffff;
+	color:black;
+	width: 990px;
+	margin: auto;
+	text-transform: capitalize;
+}
+img{
+	height: 150px;
+	width: 300px;
+	margin: auto;
+	text-align:center;
+}
+h1#main{
+	font-family: arial;
+	text-align: center;
+	margin-top: 80px;
+	margin-left: 100px;
+	margin-right: 100px;
+	color: grey;
+}
+iframe{
+	margin:70px;
+}
+h2{
+	text-align: justify;
+	font-family: arial;
+	color: grey;
+	margin-left: 200px;
+	margin-right: 200px;
+	font-weight: lighter;
+}
+h1{
+	color:black;
+	font-family:arial;
+	text-align:left;
+}
+#firstleft{
+	color:black;
+	float: left;
+	text-align:justify;
+	width: 300px;
+}
+#secondright{
+	color:black;
+	float: right;
+	text-align:justify;
+	width: 300px;
+}
